@@ -1,3 +1,3 @@
 # soeguibe
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/RERAMBYHA/soeguibe)
+Edit by sodepsi
